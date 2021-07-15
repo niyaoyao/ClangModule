@@ -1,0 +1,335 @@
+{
+  "traceEvents": [
+    {
+      "pid": 35587,
+      "tid": 259,
+      "ph": "X",
+      "ts": 79903,
+      "dur": 4369360,
+      "name": "Module Load",
+      "args": {
+        "detail": "UIKit"
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4450068,
+      "dur": 573,
+      "name": "Source",
+      "args": {
+        "detail": "/Users/yao/NY/ProfileTimeCost/ProfileTimeCost/AppDelegate.h"
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4453541,
+      "dur": 799,
+      "name": "CodeGen Function",
+      "args": {
+        "detail": "main"
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 259,
+      "ph": "X",
+      "ts": 70101,
+      "dur": 4384327,
+      "name": "Frontend"
+    },
+    {
+      "pid": 35587,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4455733,
+      "dur": 518,
+      "name": "RunPass",
+      "args": {
+        "detail": "Lower the matrix intrinsics"
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4455695,
+      "dur": 557,
+      "name": "OptFunction",
+      "args": {
+        "detail": "main"
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4455693,
+      "dur": 594,
+      "name": "OptModule",
+      "args": {
+        "detail": "/Users/yao/NY/ProfileTimeCost/ProfileTimeCost/main.m"
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4455688,
+      "dur": 600,
+      "name": "PerModulePasses"
+    },
+    {
+      "pid": 35587,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4456475,
+      "dur": 743,
+      "name": "OptFunction",
+      "args": {
+        "detail": "main"
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4456302,
+      "dur": 1198,
+      "name": "OptModule",
+      "args": {
+        "detail": "/Users/yao/NY/ProfileTimeCost/ProfileTimeCost/main.m"
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4456289,
+      "dur": 1238,
+      "name": "CodeGenPasses"
+    },
+    {
+      "pid": 35587,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4454877,
+      "dur": 2835,
+      "name": "Backend"
+    },
+    {
+      "pid": 35587,
+      "tid": 259,
+      "ph": "X",
+      "ts": 508,
+      "dur": 4458795,
+      "name": "ExecuteCompiler"
+    },
+    {
+      "pid": 35587,
+      "tid": 260,
+      "ph": "X",
+      "ts": 0,
+      "dur": 4458794,
+      "name": "Total ExecuteCompiler",
+      "args": {
+        "count": 1,
+        "avg ms": 4458
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 261,
+      "ph": "X",
+      "ts": 0,
+      "dur": 4384771,
+      "name": "Total Frontend",
+      "args": {
+        "count": 2,
+        "avg ms": 2192
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 262,
+      "ph": "X",
+      "ts": 0,
+      "dur": 4369360,
+      "name": "Total Module Load",
+      "args": {
+        "count": 1,
+        "avg ms": 4369
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 263,
+      "ph": "X",
+      "ts": 0,
+      "dur": 2834,
+      "name": "Total Backend",
+      "args": {
+        "count": 1,
+        "avg ms": 2
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 264,
+      "ph": "X",
+      "ts": 0,
+      "dur": 1791,
+      "name": "Total OptModule",
+      "args": {
+        "count": 2,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 265,
+      "ph": "X",
+      "ts": 0,
+      "dur": 1332,
+      "name": "Total OptFunction",
+      "args": {
+        "count": 5,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 266,
+      "ph": "X",
+      "ts": 0,
+      "dur": 1312,
+      "name": "Total RunPass",
+      "args": {
+        "count": 62,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 267,
+      "ph": "X",
+      "ts": 0,
+      "dur": 1238,
+      "name": "Total CodeGenPasses",
+      "args": {
+        "count": 1,
+        "avg ms": 1
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 268,
+      "ph": "X",
+      "ts": 0,
+      "dur": 798,
+      "name": "Total CodeGen Function",
+      "args": {
+        "count": 1,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 269,
+      "ph": "X",
+      "ts": 0,
+      "dur": 599,
+      "name": "Total PerModulePasses",
+      "args": {
+        "count": 1,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 270,
+      "ph": "X",
+      "ts": 0,
+      "dur": 572,
+      "name": "Total Source",
+      "args": {
+        "count": 1,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 271,
+      "ph": "X",
+      "ts": 0,
+      "dur": 70,
+      "name": "Total DebugType",
+      "args": {
+        "count": 4,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 272,
+      "ph": "X",
+      "ts": 0,
+      "dur": 66,
+      "name": "Total Module LoadIndex",
+      "args": {
+        "count": 1,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 273,
+      "ph": "X",
+      "ts": 0,
+      "dur": 16,
+      "name": "Total PerFunctionPasses",
+      "args": {
+        "count": 1,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 35587,
+      "tid": 274,
+      "ph": "X",
+      "ts": 0,
+      "dur": 3,
+      "name": "Total PerformPendingInstantiations",
+      "args": {
+        "count": 1,
+        "avg ms": 0
+      }
+    },
+    {
+      "cat": "",
+      "pid": 35587,
+      "tid": 259,
+      "ts": 0,
+      "ph": "M",
+      "name": "process_name",
+      "args": {
+        "name": "clang"
+      }
+    },
+    {
+      "cat": "",
+      "pid": 35587,
+      "tid": 259,
+      "ts": 0,
+      "ph": "M",
+      "name": "thread_name",
+      "args": {
+        "name": ""
+      }
+    }
+  ],
+  "beginningOfTime": 1626251615608984
+}

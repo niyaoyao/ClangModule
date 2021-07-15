@@ -1,0 +1,387 @@
+{
+  "traceEvents": [
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 81097,
+      "dur": 4032844,
+      "name": "Module Compile",
+      "args": {
+        "detail": "UIKit"
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 79858,
+      "dur": 4054007,
+      "name": "Module Load",
+      "args": {
+        "detail": "UIKit"
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 76743,
+      "dur": 4058283,
+      "name": "Source",
+      "args": {
+        "detail": "/Users/yao/NY/ProfileTimeCost/ProfileTimeCost/ViewController.h"
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 69870,
+      "dur": 4080624,
+      "name": "Frontend"
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4151263,
+      "dur": 517,
+      "name": "RunPass",
+      "args": {
+        "detail": "Natural Loop Information"
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4151823,
+      "dur": 2772,
+      "name": "RunPass",
+      "args": {
+        "detail": "Lower the matrix intrinsics"
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4151204,
+      "dur": 3392,
+      "name": "OptFunction",
+      "args": {
+        "detail": "\u0001-[ViewController viewDidLoad]"
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4151202,
+      "dur": 3442,
+      "name": "OptModule",
+      "args": {
+        "detail": "/Users/yao/NY/ProfileTimeCost/ProfileTimeCost/ViewController.m"
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4151199,
+      "dur": 3446,
+      "name": "PerModulePasses"
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4155216,
+      "dur": 4053,
+      "name": "RunPass",
+      "args": {
+        "detail": "X86 DAG->DAG Instruction Selection"
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4159557,
+      "dur": 2526,
+      "name": "RunPass",
+      "args": {
+        "detail": "Prologue/Epilogue Insertion & Frame Finalization"
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4162411,
+      "dur": 872,
+      "name": "RunPass",
+      "args": {
+        "detail": "X86 Assembly Printer"
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4155172,
+      "dur": 8150,
+      "name": "OptFunction",
+      "args": {
+        "detail": "\u0001-[ViewController viewDidLoad]"
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4154654,
+      "dur": 9086,
+      "name": "OptModule",
+      "args": {
+        "detail": "/Users/yao/NY/ProfileTimeCost/ProfileTimeCost/ViewController.m"
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4154646,
+      "dur": 9126,
+      "name": "CodeGenPasses"
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4150779,
+      "dur": 13226,
+      "name": "Backend"
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4189519,
+      "dur": 21118,
+      "name": "Module WriteIndex"
+    },
+    {
+      "pid": 35586,
+      "tid": 259,
+      "ph": "X",
+      "ts": 474,
+      "dur": 4236292,
+      "name": "ExecuteCompiler"
+    },
+    {
+      "pid": 35586,
+      "tid": 260,
+      "ph": "X",
+      "ts": 0,
+      "dur": 4236291,
+      "name": "Total ExecuteCompiler",
+      "args": {
+        "count": 1,
+        "avg ms": 4236
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 261,
+      "ph": "X",
+      "ts": 0,
+      "dur": 4080907,
+      "name": "Total Frontend",
+      "args": {
+        "count": 2,
+        "avg ms": 2040
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 262,
+      "ph": "X",
+      "ts": 0,
+      "dur": 4058283,
+      "name": "Total Source",
+      "args": {
+        "count": 1,
+        "avg ms": 4058
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 263,
+      "ph": "X",
+      "ts": 0,
+      "dur": 4054007,
+      "name": "Total Module Load",
+      "args": {
+        "count": 1,
+        "avg ms": 4054
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 264,
+      "ph": "X",
+      "ts": 0,
+      "dur": 4032843,
+      "name": "Total Module Compile",
+      "args": {
+        "count": 1,
+        "avg ms": 4032
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 265,
+      "ph": "X",
+      "ts": 0,
+      "dur": 21118,
+      "name": "Total Module WriteIndex",
+      "args": {
+        "count": 1,
+        "avg ms": 21
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 266,
+      "ph": "X",
+      "ts": 0,
+      "dur": 13225,
+      "name": "Total Backend",
+      "args": {
+        "count": 1,
+        "avg ms": 13
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 267,
+      "ph": "X",
+      "ts": 0,
+      "dur": 12527,
+      "name": "Total OptModule",
+      "args": {
+        "count": 2,
+        "avg ms": 6
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 268,
+      "ph": "X",
+      "ts": 0,
+      "dur": 12024,
+      "name": "Total OptFunction",
+      "args": {
+        "count": 5,
+        "avg ms": 2
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 269,
+      "ph": "X",
+      "ts": 0,
+      "dur": 11987,
+      "name": "Total RunPass",
+      "args": {
+        "count": 62,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 270,
+      "ph": "X",
+      "ts": 0,
+      "dur": 9126,
+      "name": "Total CodeGenPasses",
+      "args": {
+        "count": 1,
+        "avg ms": 9
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 271,
+      "ph": "X",
+      "ts": 0,
+      "dur": 3446,
+      "name": "Total PerModulePasses",
+      "args": {
+        "count": 1,
+        "avg ms": 3
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 272,
+      "ph": "X",
+      "ts": 0,
+      "dur": 133,
+      "name": "Total DebugType",
+      "args": {
+        "count": 6,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 273,
+      "ph": "X",
+      "ts": 0,
+      "dur": 36,
+      "name": "Total PerFunctionPasses",
+      "args": {
+        "count": 1,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 35586,
+      "tid": 274,
+      "ph": "X",
+      "ts": 0,
+      "dur": 0,
+      "name": "Total PerformPendingInstantiations",
+      "args": {
+        "count": 1,
+        "avg ms": 0
+      }
+    },
+    {
+      "cat": "",
+      "pid": 35586,
+      "tid": 259,
+      "ts": 0,
+      "ph": "M",
+      "name": "process_name",
+      "args": {
+        "name": "clang"
+      }
+    },
+    {
+      "cat": "",
+      "pid": 35586,
+      "tid": 259,
+      "ts": 0,
+      "ph": "M",
+      "name": "thread_name",
+      "args": {
+        "name": ""
+      }
+    }
+  ],
+  "beginningOfTime": 1626251615609029
+}

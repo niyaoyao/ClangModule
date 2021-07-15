@@ -1,0 +1,5125 @@
+{
+  "traceEvents": [
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 38203,
+      "dur": 2804,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/cdefs.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 42693,
+      "dur": 6068,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/i386/types.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 41706,
+      "dur": 7060,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/machine/types.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 48896,
+      "dur": 1179,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/_types.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 53285,
+      "dur": 529,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/libkern/i386/_OSByteOrder.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 52979,
+      "dur": 854,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/libkern/_OSByteOrder.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 51729,
+      "dur": 2120,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/_endian.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 50760,
+      "dur": 3090,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/i386/endian.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 50385,
+      "dur": 3468,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/machine/endian.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 65946,
+      "dur": 3307,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/AvailabilityInternal.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 64433,
+      "dur": 4993,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/Availability.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 63559,
+      "dur": 7477,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/_types/_fd_def.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 37101,
+      "dur": 40441,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/types.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 81360,
+      "dur": 2273,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/runetype.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 80335,
+      "dur": 4296,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/_ctype.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 79848,
+      "dur": 4786,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/ctype.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 85238,
+      "dur": 843,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/errno.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 87732,
+      "dur": 731,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include/float.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 90062,
+      "dur": 701,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/machine/limits.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 89715,
+      "dur": 1667,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/limits.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 89048,
+      "dur": 2368,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include/limits.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 92048,
+      "dur": 1111,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/locale.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 93468,
+      "dur": 3369,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/math.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 101224,
+      "dur": 1283,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach/i386/_structs.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 100651,
+      "dur": 1860,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach/machine/_structs.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 99976,
+      "dur": 2674,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/i386/_mcontext.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 99595,
+      "dur": 3059,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/machine/_mcontext.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 98388,
+      "dur": 5790,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/signal.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 98270,
+      "dur": 6626,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/signal.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 105269,
+      "dur": 561,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include/stddef.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 107073,
+      "dur": 881,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/_stdio.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 106473,
+      "dur": 4717,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/stdio.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 113529,
+      "dur": 2415,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/stdint.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 113202,
+      "dur": 2817,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include/stdint.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 112815,
+      "dur": 4129,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/resource.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 112653,
+      "dur": 4489,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/wait.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 112032,
+      "dur": 7943,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/stdlib.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 121254,
+      "dur": 1691,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/string.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 123414,
+      "dur": 1010,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/time.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 124996,
+      "dur": 1149,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include/inttypes.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 130760,
+      "dur": 944,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/AvailabilityMacros.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 129177,
+      "dur": 2642,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFAvailability.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 132914,
+      "dur": 1007,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/MacTypes.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 127767,
+      "dur": 7910,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 136301,
+      "dur": 506,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFArray.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 140584,
+      "dur": 717,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/libkern/i386/OSByteOrder.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 140192,
+      "dur": 1401,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/libkern/OSByteOrder.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 139780,
+      "dur": 3183,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFByteOrder.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 143814,
+      "dur": 2393,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFLocale.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 146906,
+      "dur": 892,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFDate.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 149234,
+      "dur": 927,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFCharacterSet.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 149087,
+      "dur": 3438,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFString.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 148180,
+      "dur": 4697,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFTimeZone.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 143332,
+      "dur": 10794,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFCalendar.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 154308,
+      "dur": 1285,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFDateFormatter.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 155871,
+      "dur": 659,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFError.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 157612,
+      "dur": 697,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFNumberFormatter.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 159859,
+      "dur": 4984,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFURL.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 166726,
+      "dur": 663,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach/machine/boolean.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 166426,
+      "dur": 967,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach/boolean.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 167720,
+      "dur": 623,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach/machine/vm_types.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 165916,
+      "dur": 2948,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach/port.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 165215,
+      "dur": 4860,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFRunLoop.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 170586,
+      "dur": 813,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFSocket.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 173929,
+      "dur": 1011,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/_types/_seek_set.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 173697,
+      "dur": 1722,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/unistd.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 176841,
+      "dur": 580,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/select.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 173603,
+      "dur": 5420,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/unistd.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 179581,
+      "dur": 1821,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/fcntl.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 179459,
+      "dur": 1945,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/fcntl.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 183279,
+      "dur": 922,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/objc/objc.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 182583,
+      "dur": 2832,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/objc/NSObject.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 181843,
+      "dur": 3833,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/os/object.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 186255,
+      "dur": 782,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/os/workgroup_base.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 187183,
+      "dur": 941,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/os/workgroup_object.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 189464,
+      "dur": 563,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/os/workgroup_interval.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 185987,
+      "dur": 4325,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/os/workgroup.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 192595,
+      "dur": 743,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach/clock_types.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 191283,
+      "dur": 2256,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/dispatch/time.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 193649,
+      "dur": 1805,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/dispatch/object.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 195619,
+      "dur": 1881,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/dispatch/queue.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 197643,
+      "dur": 506,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/dispatch/block.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 199066,
+      "dur": 796,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach/kern_return.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 198564,
+      "dur": 2061,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach/message.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 198261,
+      "dur": 3296,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/dispatch/source.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 204480,
+      "dur": 568,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/dispatch/data.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 207026,
+      "dur": 908,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/dispatch/io.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 172382,
+      "dur": 35915,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/dispatch/dispatch.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 159702,
+      "dur": 49645,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 159458,
+      "dur": 50446,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFPropertyList.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 210492,
+      "dur": 623,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStringEncodingExt.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 212299,
+      "dur": 715,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFURLAccess.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 214783,
+      "dur": 1939,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBundle.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 218565,
+      "dur": 525,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFMachPort.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 221090,
+      "dur": 861,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFURLEnumerator.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 223577,
+      "dur": 566,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/kauth.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 222223,
+      "dur": 2529,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/acl.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 222091,
+      "dur": 3307,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFFileSecurity.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 227000,
+      "dur": 1759,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFUserNotification.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 24857,
+      "dur": 204778,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 230084,
+      "dur": 904,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 233507,
+      "dur": 549,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSZone.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 232877,
+      "dur": 1631,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 236321,
+      "dur": 883,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSValue.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 235657,
+      "dur": 1870,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 238792,
+      "dur": 1328,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSOrderedCollectionChange.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 240752,
+      "dur": 924,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSIndexSet.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 238122,
+      "dur": 3890,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSOrderedCollectionDifference.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 231766,
+      "dur": 12346,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 245571,
+      "dur": 1334,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSItemProvider.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 245081,
+      "dur": 6090,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 251578,
+      "dur": 2017,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 253829,
+      "dur": 2374,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSSet.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 256543,
+      "dur": 1668,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSProgress.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 244960,
+      "dur": 15542,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSBundle.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 260917,
+      "dur": 1335,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSByteOrder.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 262612,
+      "dur": 4662,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCalendar.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 267895,
+      "dur": 738,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 269029,
+      "dur": 1367,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCoder.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 270928,
+      "dur": 3447,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 275245,
+      "dur": 598,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSAttributedString.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 274970,
+      "dur": 1120,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFormatter.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 274759,
+      "dur": 2018,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDateFormatter.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 277128,
+      "dur": 515,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDateIntervalFormatter.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 277910,
+      "dur": 578,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSISO8601DateFormatter.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 280761,
+      "dur": 2097,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSUnit.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 280615,
+      "dur": 2428,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSMeasurement.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 284124,
+      "dur": 1597,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNumberFormatter.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 286234,
+      "dur": 2131,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSLocale.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 283653,
+      "dur": 4999,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSMeasurementFormatter.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 290625,
+      "dur": 569,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPersonNameComponentsFormatter.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 295223,
+      "dur": 766,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 293875,
+      "dur": 2601,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDecimalNumber.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 296882,
+      "dur": 526,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSError.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 297883,
+      "dur": 2064,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileHandle.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 300615,
+      "dur": 711,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPathUtilities.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 301504,
+      "dur": 8223,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURL.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 300132,
+      "dur": 13048,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 314011,
+      "dur": 780,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPointerFunctions.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 313626,
+      "dur": 2146,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSHashTable.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 315916,
+      "dur": 670,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSHTTPCookie.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 316897,
+      "dur": 509,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSHTTPCookieStorage.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 317731,
+      "dur": 611,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSIndexPath.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 320053,
+      "dur": 4532,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSOrderedSet.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 319707,
+      "dur": 5474,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSKeyValueCoding.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 325354,
+      "dur": 914,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSKeyValueObserving.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 326400,
+      "dur": 3092,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSKeyedArchiver.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 330181,
+      "dur": 1433,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSMapTable.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 333521,
+      "dur": 1153,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSOperation.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 335335,
+      "dur": 664,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSOrthography.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 338116,
+      "dur": 1220,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPort.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 340149,
+      "dur": 1864,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSProcessInfo.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 342612,
+      "dur": 1131,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSTextCheckingResult.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 342506,
+      "dur": 1788,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRegularExpression.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 344399,
+      "dur": 521,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSSortDescriptor.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 345292,
+      "dur": 1371,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSStream.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 347172,
+      "dur": 902,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSThread.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 348405,
+      "dur": 584,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSTimeZone.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 351118,
+      "dur": 614,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLCache.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 351887,
+      "dur": 898,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLConnection.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 355021,
+      "dur": 3124,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Security.framework/Headers/SecBase.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 358374,
+      "dur": 604,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Security.framework/Headers/SecCertificate.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 360679,
+      "dur": 2977,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Security.framework/Headers/SecItem.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 363803,
+      "dur": 2383,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Security.framework/Headers/SecKey.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 366630,
+      "dur": 571,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Security.framework/Headers/SecPolicy.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 368343,
+      "dur": 1103,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Security.framework/Headers/SecTrust.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 371685,
+      "dur": 1026,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Security.framework/Headers/CipherSuite.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 371322,
+      "dur": 3356,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Security.framework/Headers/SecProtocolTypes.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 375267,
+      "dur": 893,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Security.framework/Headers/SecProtocolMetadata.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 370392,
+      "dur": 7126,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Security.framework/Headers/SecProtocolOptions.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 354050,
+      "dur": 23497,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 353185,
+      "dur": 24754,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLCredential.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 378782,
+      "dur": 676,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLProtectionSpace.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 378317,
+      "dur": 1591,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLCredentialStorage.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 382991,
+      "dur": 834,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetworkErrors.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 385400,
+      "dur": 1146,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetServices.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 383955,
+      "dur": 3335,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFSocketStream.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 388534,
+      "dur": 2024,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFFTPStream.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 391008,
+      "dur": 1327,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFHTTPMessage.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 394392,
+      "dur": 2892,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFProxySupport.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 381142,
+      "dur": 16145,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 380647,
+      "dur": 17669,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 398450,
+      "dur": 520,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLProtocol.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 399098,
+      "dur": 3138,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLRequest.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 402803,
+      "dur": 509,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLResponse.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 403760,
+      "dur": 856,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSUserDefaults.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 405216,
+      "dur": 2752,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXMLParser.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 408447,
+      "dur": 622,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/sys/param.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 408317,
+      "dur": 1331,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/bsm/audit.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 408175,
+      "dur": 2530,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXPCConnection.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 411167,
+      "dur": 1279,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/FoundationErrors.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 414704,
+      "dur": 576,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPredicate.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 414314,
+      "dur": 1311,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSComparisonPredicate.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 417743,
+      "dur": 1330,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSExpression.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 421616,
+      "dur": 2414,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileCoordinator.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 424781,
+      "dur": 766,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileVersion.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 425682,
+      "dur": 601,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileWrapper.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 426426,
+      "dur": 3189,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSLinguisticTagger.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 430445,
+      "dur": 6282,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSMetadataAttributes.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 430073,
+      "dur": 7950,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSMetadata.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 438229,
+      "dur": 1604,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNetServices.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 440219,
+      "dur": 541,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSUbiquitousKeyValueStore.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 441112,
+      "dur": 883,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSUndoManager.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 442271,
+      "dur": 2956,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Security.framework/Headers/SecureTransport.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 442133,
+      "dur": 8579,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLSession.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 450938,
+      "dur": 903,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSUserActivity.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 452165,
+      "dur": 813,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSUUID.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 21189,
+      "dur": 432185,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 456935,
+      "dur": 1503,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityConstants.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 462760,
+      "dur": 1737,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 461939,
+      "dur": 3303,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGAffineTransform.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 467424,
+      "dur": 756,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGDataProvider.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 466983,
+      "dur": 3762,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGColorSpace.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 471240,
+      "dur": 627,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPattern.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 466767,
+      "dur": 5963,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGColor.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 473310,
+      "dur": 1522,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGFont.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 475218,
+      "dur": 627,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGradient.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 476199,
+      "dur": 1323,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 477663,
+      "dur": 1573,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPath.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 480927,
+      "dur": 2301,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFArray.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 480487,
+      "dur": 3253,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFDictionary.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 480075,
+      "dur": 4236,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFPage.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 479655,
+      "dur": 6026,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFDocument.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 486510,
+      "dur": 764,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGFunction.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 486085,
+      "dur": 1437,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGShading.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 466214,
+      "dur": 26485,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 466032,
+      "dur": 27175,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBitmapContext.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 496872,
+      "dur": 1918,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 499654,
+      "dur": 684,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFScanner.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 499191,
+      "dur": 1313,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFOperatorTable.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 460072,
+      "dur": 40489,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 501201,
+      "dur": 1670,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGeometry.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 459102,
+      "dur": 44051,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIBezierPath.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 510456,
+      "dur": 528,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVBase.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 509741,
+      "dur": 1304,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVReturn.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 511855,
+      "dur": 503,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVBuffer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 512656,
+      "dur": 1534,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVImageBuffer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 517653,
+      "dur": 6925,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/IOSurface.framework/Headers/IOSurfaceRef.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 516600,
+      "dur": 8291,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVPixelBufferIOSurface.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 512514,
+      "dur": 12379,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVPixelBuffer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 525032,
+      "dur": 530,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVPixelBufferPool.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 525788,
+      "dur": 751,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVOpenGLESTexture.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 527262,
+      "dur": 844,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVPixelFormatDescription.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 531162,
+      "dur": 2693,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Metal.framework/Headers/MTLPixelFormat.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 529401,
+      "dur": 4771,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVMetalTextureCache.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 508718,
+      "dur": 25456,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CoreVideo.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 536512,
+      "dur": 1710,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/ImageIO.framework/Headers/CGImageMetadata.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 536235,
+      "dur": 5210,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/ImageIO.framework/Headers/CGImageSource.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 541572,
+      "dur": 852,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/ImageIO.framework/Headers/CGImageDestination.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 542548,
+      "dur": 17756,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/ImageIO.framework/Headers/CGImageProperties.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 534591,
+      "dur": 26142,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/ImageIO.framework/Headers/ImageIO.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 507881,
+      "dur": 55282,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CIImage.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 563461,
+      "dur": 1320,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 563308,
+      "dur": 3623,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CIContext.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 567104,
+      "dur": 1681,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CIFilter.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 569143,
+      "dur": 670,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CIKernel.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 570117,
+      "dur": 546,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CIDetector.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 576701,
+      "dur": 1268,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/IOSurface.framework/Headers/IOSurfaceObjC.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 576015,
+      "dur": 2447,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CIRenderDestination.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 578794,
+      "dur": 639,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CIBarcodeDescriptor.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 504534,
+      "dur": 76311,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 503730,
+      "dur": 79490,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIColor.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 583893,
+      "dur": 4276,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIFontDescriptor.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 583343,
+      "dur": 5101,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIFont.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 592960,
+      "dur": 1151,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGraphics.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 595958,
+      "dur": 644,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/NSTextAttachment.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 595343,
+      "dur": 3628,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImage.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 599312,
+      "dur": 1457,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImageConfiguration.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 600887,
+      "dur": 1469,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImageSymbolConfiguration.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 602787,
+      "dur": 5814,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILocalNotification.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 608797,
+      "dur": 4066,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/NSAttributedString.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 613514,
+      "dur": 1030,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CTParagraphStyle.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 613136,
+      "dur": 3024,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/NSText.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 613038,
+      "dur": 3946,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/NSParagraphStyle.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 617421,
+      "dur": 801,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/NSStringDrawing.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 619902,
+      "dur": 676,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CABase.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 620994,
+      "dur": 2778,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CATransform3D.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 630842,
+      "dur": 4499,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CALayer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 628067,
+      "dur": 9302,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAAnimation.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 637824,
+      "dur": 775,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAEAGLLayer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 640605,
+      "dur": 612,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/Metal.framework/Headers/MTLDrawable.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 640510,
+      "dur": 986,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAMetalLayer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 641979,
+      "dur": 1409,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAEmitterLayer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 643533,
+      "dur": 906,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAGradientLayer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 645330,
+      "dur": 4753,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAScrollLayer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 651857,
+      "dur": 500,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAShapeLayer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 652631,
+      "dur": 4707,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CATextLayer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 658360,
+      "dur": 4259,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CATransaction.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 662719,
+      "dur": 525,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CATransformLayer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 663417,
+      "dur": 502,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAValueFunction.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 619598,
+      "dur": 44324,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CoreAnimation.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 619525,
+      "dur": 44398,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 667811,
+      "dur": 3319,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIMenuElement.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 674191,
+      "dur": 4263,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIMenu.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 666514,
+      "dur": 15844,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UICommand.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 665029,
+      "dur": 17872,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 685182,
+      "dur": 4501,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKeyCommand.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 689791,
+      "dur": 3143,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPasteConfigurationSupporting.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 664763,
+      "dur": 40461,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 705390,
+      "dur": 8285,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIInterface.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 714780,
+      "dur": 3014,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAppearance.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 718864,
+      "dur": 8088,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/NSLayoutConstraint.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 727223,
+      "dur": 9034,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDevice.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 736462,
+      "dur": 1208,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITouch.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 737828,
+      "dur": 2634,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIContentSizeCategory.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 727005,
+      "dur": 14500,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITraitCollection.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 741647,
+      "dur": 1691,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIFocus.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 619360,
+      "dur": 133281,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 619230,
+      "dur": 133832,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 761231,
+      "dur": 876,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIContextMenuConfiguration.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 760176,
+      "dur": 2537,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIContextMenuInteraction.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 759477,
+      "dur": 4273,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIControl.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 753328,
+      "dur": 10575,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIRefreshControl.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 753204,
+      "dur": 12059,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIScrollView.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 619142,
+      "dur": 146414,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 766177,
+      "dur": 574,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityCustomAction.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 767118,
+      "dur": 1787,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextInputTraits.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 767003,
+      "dur": 5870,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextInput.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 766868,
+      "dur": 7125,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityCustomRotor.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 776311,
+      "dur": 916,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 779805,
+      "dur": 901,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDropInteraction.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 778495,
+      "dur": 3239,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDragInteraction.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 777919,
+      "dur": 4281,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextDragging.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 783455,
+      "dur": 1408,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextPasteConfigurationSupporting.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 782484,
+      "dur": 2691,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextDropping.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 785902,
+      "dur": 2001,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIContentSizeCategoryAdjusting.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 775930,
+      "dur": 14242,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextField.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 775538,
+      "dur": 15721,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActionSheet.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 791428,
+      "dur": 1014,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 775066,
+      "dur": 17379,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlert.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 774954,
+      "dur": 29452,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 805325,
+      "dur": 984,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIScene.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 805197,
+      "dur": 1505,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPointerLockState.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 774816,
+      "dur": 36087,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 774687,
+      "dur": 37250,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 774200,
+      "dur": 37810,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityIdentification.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 774093,
+      "dur": 38009,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityElement.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 812754,
+      "dur": 3521,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityZoom.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 816390,
+      "dur": 841,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGuidedAccess.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 619009,
+      "dur": 204904,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 824154,
+      "dur": 1056,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImageView.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 825367,
+      "dur": 2553,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIButton.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 824013,
+      "dur": 4095,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityContentSizeCategoryImageAdjusting.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 828997,
+      "dur": 2176,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIBarButtonItem.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 831684,
+      "dur": 11567,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UICollectionView.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 849003,
+      "dur": 1832,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UICollectionViewCell.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 852105,
+      "dur": 7637,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UICollectionViewLayout.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 851432,
+      "dur": 10424,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UICollectionViewFlowLayout.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 862781,
+      "dur": 11339,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UICollectionViewCompositionalLayout.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 874277,
+      "dur": 1459,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UICellAccessory.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 876620,
+      "dur": 797,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGestureRecognizer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 876508,
+      "dur": 1035,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISwipeGestureRecognizer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 878194,
+      "dur": 1792,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 876379,
+      "dur": 8428,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 876223,
+      "dur": 11281,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDiffableDataSource.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 887639,
+      "dur": 507,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UICollectionViewItemRegistration.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 888299,
+      "dur": 910,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UICollectionLayoutList.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 892306,
+      "dur": 1351,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIListContentConfiguration.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 893915,
+      "dur": 794,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKeyConstants.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 893765,
+      "dur": 1088,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKey.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 895716,
+      "dur": 1095,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDocument.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 897257,
+      "dur": 720,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDocumentPickerViewController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 899874,
+      "dur": 619,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/FileProvider.framework/Headers/NSFileProviderItem.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 899671,
+      "dur": 1208,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/FileProvider.framework/Headers/NSFileProviderExtension.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 899392,
+      "dur": 1491,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/NSFileProviderExtension.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 902124,
+      "dur": 577,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIFontPickerViewController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 903200,
+      "dur": 654,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGraphicsImageRenderer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 904930,
+      "dur": 514,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPanGestureRecognizer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 904806,
+      "dur": 2447,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 904681,
+      "dur": 4123,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 909569,
+      "dur": 1517,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIInputView.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 913241,
+      "dur": 2404,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIInputViewController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 916791,
+      "dur": 508,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILexicon.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 917470,
+      "dur": 637,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILargeContentViewer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 918232,
+      "dur": 2545,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplicationShortcutItem.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 920904,
+      "dur": 3294,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIUserNotificationSettings.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 924288,
+      "dur": 704,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIFocusSystem.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 925745,
+      "dur": 2374,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIFocusDebugger.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 933179,
+      "dur": 565,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIHoverGestureRecognizer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 934764,
+      "dur": 583,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIMenuController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 935445,
+      "dur": 4309,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIMotionEffect.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 940055,
+      "dur": 810,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationItem.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 939889,
+      "dur": 10625,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationBar.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 951278,
+      "dur": 1087,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPageControl.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 952656,
+      "dur": 2039,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPageViewController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 954843,
+      "dur": 5269,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPasteboard.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 960230,
+      "dur": 32263,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPinchGestureRecognizer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 994187,
+      "dur": 2660,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPopoverSupport.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 993417,
+      "dur": 5082,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPopoverController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1000793,
+      "dur": 576,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPrintFormatter.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1001446,
+      "dur": 538,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPrintInfo.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1002128,
+      "dur": 1101,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPrintInteractionController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1003378,
+      "dur": 1115,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPrintPageRenderer.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1005223,
+      "dur": 1183,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIProgressView.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1008011,
+      "dur": 813,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIScreen.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1009536,
+      "dur": 1562,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISearchBar.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1011559,
+      "dur": 880,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPresentationController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1012684,
+      "dur": 705,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITimingParameters.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1012573,
+      "dur": 1428,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewControllerTransitioning.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1011449,
+      "dur": 2965,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISearchController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1014537,
+      "dur": 974,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISearchDisplayController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1015670,
+      "dur": 527,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISearchTextField.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1016486,
+      "dur": 969,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISegmentedControl.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1018107,
+      "dur": 2383,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISplitViewController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1021504,
+      "dur": 566,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStoryboardPopoverSegue.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1022889,
+      "dur": 1242,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISwitch.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1024670,
+      "dur": 1145,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITabBar.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1025947,
+      "dur": 558,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITabBarController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1026614,
+      "dur": 665,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITabBarItem.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1028791,
+      "dur": 1095,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1029996,
+      "dur": 523,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIToolbar.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1030981,
+      "dur": 810,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1032049,
+      "dur": 1193,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1034998,
+      "dur": 753,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITargetedDragPreview.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1035902,
+      "dur": 640,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISpringLoadedInteraction.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1037283,
+      "dur": 619,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIBarButtonItemAppearance.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1039606,
+      "dur": 1477,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITabBarAppearance.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1041181,
+      "dur": 521,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityItemsConfigurationReading.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1044285,
+      "dur": 795,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/NSLayoutAnchor.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1045937,
+      "dur": 626,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/NSTextStorage.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1045813,
+      "dur": 2937,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/NSLayoutManager.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1049343,
+      "dur": 787,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPreviewInteraction.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1053162,
+      "dur": 1144,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAttachmentBehavior.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1054434,
+      "dur": 800,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UICollisionBehavior.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1055351,
+      "dur": 2576,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIRegion.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1063306,
+      "dur": 825,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISceneOptions.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1064408,
+      "dur": 504,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindowScene.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1068984,
+      "dur": 787,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStatusBarManager.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1070102,
+      "dur": 853,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIScreenshotService.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1073091,
+      "dur": 1130,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UNNotificationResponse.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1071837,
+      "dur": 2444,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UNNotificationResponse+UIKitAdditions.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1077917,
+      "dur": 915,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPointerStyle.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1076920,
+      "dur": 2348,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPointerInteraction.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 454788,
+      "dur": 626967,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKitCore.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1082378,
+      "dur": 1251,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDocumentBrowserViewController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1082004,
+      "dur": 2609,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/DocumentManager.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1085277,
+      "dur": 1322,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivity.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1087739,
+      "dur": 799,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1089763,
+      "dur": 962,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDocumentInteractionController.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1084943,
+      "dur": 5785,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/ShareSheet.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 6528,
+      "dur": 1084209,
+      "name": "Source",
+      "args": {
+        "detail": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 5344,
+      "dur": 1085441,
+      "name": "Source",
+      "args": {
+        "detail": "/Users/yao/NY/ProfileTimeCost/ProfileTimeCost/SceneDelegate.h"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 4073,
+      "dur": 1088784,
+      "name": "Frontend"
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1092858,
+      "dur": 2087,
+      "name": "Frontend"
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1095790,
+      "dur": 519,
+      "name": "OptFunction",
+      "args": {
+        "detail": "\u0001-[SceneDelegate scene:willConnectToSession:options:]"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1095789,
+      "dur": 650,
+      "name": "OptModule",
+      "args": {
+        "detail": "/Users/yao/NY/ProfileTimeCost/ProfileTimeCost/SceneDelegate.m"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1095783,
+      "dur": 657,
+      "name": "PerModulePasses"
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1097171,
+      "dur": 686,
+      "name": "OptFunction",
+      "args": {
+        "detail": "\u0001-[SceneDelegate scene:willConnectToSession:options:]"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1096461,
+      "dur": 4927,
+      "name": "OptModule",
+      "args": {
+        "detail": "/Users/yao/NY/ProfileTimeCost/ProfileTimeCost/SceneDelegate.m"
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1096440,
+      "dur": 5070,
+      "name": "CodeGenPasses"
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 1094950,
+      "dur": 6756,
+      "name": "Backend"
+    },
+    {
+      "pid": 53366,
+      "tid": 259,
+      "ph": "X",
+      "ts": 148,
+      "dur": 1879994,
+      "name": "ExecuteCompiler"
+    },
+    {
+      "pid": 53366,
+      "tid": 260,
+      "ph": "X",
+      "ts": 0,
+      "dur": 1879993,
+      "name": "Total ExecuteCompiler",
+      "args": {
+        "count": 1,
+        "avg ms": 1879
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 261,
+      "ph": "X",
+      "ts": 0,
+      "dur": 1090871,
+      "name": "Total Frontend",
+      "args": {
+        "count": 2,
+        "avg ms": 545
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 262,
+      "ph": "X",
+      "ts": 0,
+      "dur": 1085440,
+      "name": "Total Source",
+      "args": {
+        "count": 1,
+        "avg ms": 1085
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 263,
+      "ph": "X",
+      "ts": 0,
+      "dur": 6756,
+      "name": "Total Backend",
+      "args": {
+        "count": 1,
+        "avg ms": 6
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 264,
+      "ph": "X",
+      "ts": 0,
+      "dur": 5576,
+      "name": "Total OptModule",
+      "args": {
+        "count": 2,
+        "avg ms": 2
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 265,
+      "ph": "X",
+      "ts": 0,
+      "dur": 5070,
+      "name": "Total CodeGenPasses",
+      "args": {
+        "count": 1,
+        "avg ms": 5
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 266,
+      "ph": "X",
+      "ts": 0,
+      "dur": 2822,
+      "name": "Total OptFunction",
+      "args": {
+        "count": 45,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 267,
+      "ph": "X",
+      "ts": 0,
+      "dur": 2668,
+      "name": "Total RunPass",
+      "args": {
+        "count": 558,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 268,
+      "ph": "X",
+      "ts": 0,
+      "dur": 1548,
+      "name": "Total DebugType",
+      "args": {
+        "count": 401,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 269,
+      "ph": "X",
+      "ts": 0,
+      "dur": 656,
+      "name": "Total PerModulePasses",
+      "args": {
+        "count": 1,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 270,
+      "ph": "X",
+      "ts": 0,
+      "dur": 26,
+      "name": "Total PerFunctionPasses",
+      "args": {
+        "count": 1,
+        "avg ms": 0
+      }
+    },
+    {
+      "pid": 53366,
+      "tid": 271,
+      "ph": "X",
+      "ts": 0,
+      "dur": 3,
+      "name": "Total PerformPendingInstantiations",
+      "args": {
+        "count": 1,
+        "avg ms": 0
+      }
+    },
+    {
+      "cat": "",
+      "pid": 53366,
+      "tid": 259,
+      "ts": 0,
+      "ph": "M",
+      "name": "process_name",
+      "args": {
+        "name": "clang"
+      }
+    },
+    {
+      "cat": "",
+      "pid": 53366,
+      "tid": 259,
+      "ts": 0,
+      "ph": "M",
+      "name": "thread_name",
+      "args": {
+        "name": ""
+      }
+    }
+  ],
+  "beginningOfTime": 1626255471166668
+}
